@@ -1,0 +1,9 @@
+exports.http = require('http');
+exports.localhostname = '127.0.0.1';
+exports.port = 3000;
+exports.username = 'root'
+exports.password = ''
+exports.port = '1433'
+exports.server = 'localhost'//'RADHE-RADHE\\SQLEXPRESS'
+exports.database = 'cloudoki'
+exports.appname = 'analyst'
